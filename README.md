@@ -1,1 +1,1 @@
-This is just a Git study samples
+This is just Git study samples
